@@ -1,0 +1,1 @@
+This repository hosts the documentation for the GrowStar project.
